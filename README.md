@@ -1,5 +1,7 @@
 📝 To-Do List GUI Application (Python Tkinter)
+
 A simple To-Do List desktop application built using Python and Tkinter.
+
 This application allows users to add tasks, mark tasks as completed, and delete tasks using a simple graphical interface.
 It is a beginner-friendly project that demonstrates the use of Python GUI programming, event handling, and list management.
 
