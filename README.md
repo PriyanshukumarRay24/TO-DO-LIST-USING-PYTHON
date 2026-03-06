@@ -7,6 +7,10 @@ It is a beginner-friendly project that demonstrates the use of Python GUI progra
 
 🚀 Features
 
+
+
+
+
 ➕ Add Tasks – Users can enter a task and add it to the list.
 
 ✔ Mark Tasks as Completed – Selected tasks can be marked as completed with a checkmark (✓).
