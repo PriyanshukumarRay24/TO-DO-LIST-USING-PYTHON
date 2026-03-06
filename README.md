@@ -21,6 +21,9 @@ It is a beginner-friendly project that demonstrates the use of Python GUI progra
 
 ⚡ Lightweight and easy to use.
 
+
+
+
 🛠 Technologies Used
 
 Python
