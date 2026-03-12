@@ -83,7 +83,7 @@ todo-app/
 - Keyboard shortcuts (e.g., `Enter` to add a task)
 - Color-code completed vs pending tasks
 
----
+
 
 ## 📄 License
 
